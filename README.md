@@ -20,6 +20,13 @@
   🎓 Computer Science Student at UNAM.
 </li>
 
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Experience that i have learned👨</h2></summary>
+  </ul>
+</div>
+
 <ul>
   <li>📖 <strong>“The heart of software is its ability to solve domain-related problems for its users.”</strong></li>
   <li>📖 <strong>“When you cannot make a model work, when a client or developer is continually confused, your model needs to be fixed.”</strong></li>
