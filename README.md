@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,swift,firebase,gradle,cs,net,azure,mongo,postgresql,github,git,bitbucket,docker,postman,graphql,visualstudio,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,net,azure,mongo,postgresql,github,git,docker,kubernetes,postman&perline=14" />
   </a>
 </p>
 
@@ -72,55 +72,6 @@ Here are some ideas to get you started:
   </ul>
 </div>
 </p>
-
-<table>
-    <tr>
-        <th colspan="2">Instagram Clone</th>
-    </tr>
-    <tr>
-        <td align="center">  
-           <img width="650"  height="500" alt="image" src="https://github.com/DavidAriias/instagram/assets/112224260/b6aec5a1-548a-49de-8a17-f835d20115f3">
-        <td>
-            <ul>
-                <li><strong>Project Description (In Progress):</strong></li>
-                <li>Ongoing Instagram app project with a clean Dart/Flutter architecture.</li>
-                <li>Emulates UI/UX of Instagram's iOS version, following business rules.</li>
-                <li>Key libraries: Riverpod for state management, Cached Network Image for internet images, Flutter Native Splash for splash screen/logo, Go Router for navigation, Shared Preferences for token storage, Image Picker for camera, URL Launcher for link opening.</li>
-                <li>Focuses on best development practices and consistent iOS Instagram experience.</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <a href="https://github.com/DavidAriias/instagram/blob/main/README.md" target="_blank">Link to Project</a>
-        </td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th colspan="2">Music Player: Apple Music UI</th>
-    </tr>
-    <tr>
-        <td align="center">  
-            <img width="350" height="500" alt="Music Player UI" src="https://github.com/DavidAriias/MusicPlayer/assets/112224260/4644fb17-4585-401a-8a3b-7cf165817444">
-        </td>
-        <td>
-            <p><strong>Project Overview:</strong></p>
-            <p>Music player based on the UI of Apple Music. Backend on the master branch, frontend on the frontend branch, and APKs on the executables branch.</p>
-                      <p><strong>Technologies Used:</strong></p>
-            <ul>
-                <li><strong>Stack:</strong> Flutter/Dart for UI development, Python with FastAPI for backend, SpotifyAPI, Youtube Data API, Web Scraping, etc.</li>
-                <li><strong>Database:</strong> MongoDB used to store user data and songs, deployed on MongoDB Atlas.</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-         <td colspan="2" align="center">
-            <a href="https://github.com/DavidAriias/MusicPlayer" target="_blank">Link to Project</a>
-        </td>
-    </tr>
-</table>
 
 
 
