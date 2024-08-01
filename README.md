@@ -23,8 +23,6 @@
 <ul>
   <li>📖 <strong>“The heart of software is its ability to solve domain-related problems for its users.”</strong></li>
   <li>📖 <strong>“When you cannot make a model work, when a client or developer is continually confused, your model needs to be fixed.”</strong></li>
-  <li>📖 <strong>“A model is a simplification. It is an interpretation of reality that ignores certain details in order to highlight others.”</strong></li>
-  <li>📖 <strong>“The most significant complexity of many applications is not technical complexity; it is understanding and managing the complex domain logic.”</strong></li>
   <li>📖 <strong>“Communication between team members and stakeholders is a cornerstone of DDD. Shared understanding is key.”</strong></li>
   <li>📖 <strong>“In domain-driven design, the domain model is the core of the architecture.”</strong></li>
 </ul>
