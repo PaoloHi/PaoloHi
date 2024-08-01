@@ -26,11 +26,7 @@
   <li>📖 <strong>“A model is a simplification. It is an interpretation of reality that ignores certain details in order to highlight others.”</strong></li>
   <li>📖 <strong>“The most significant complexity of many applications is not technical complexity; it is understanding and managing the complex domain logic.”</strong></li>
   <li>📖 <strong>“Communication between team members and stakeholders is a cornerstone of DDD. Shared understanding is key.”</strong></li>
-  <li>📖 <strong>“Refactoring is a vital aspect of maintaining the health of a codebase and enabling it to evolve over time.”</strong></li>
   <li>📖 <strong>“In domain-driven design, the domain model is the core of the architecture.”</strong></li>
-  <li>📖 <strong>“By handling the problem of complexity, a good design allows you to focus on the key aspects of your application.”</strong></li>
-  <li>📖 <strong>“Explicitly define the boundaries of your domain and ensure the boundaries reflect the natural contours of the domain.”</strong></li>
-  <li>📖 <strong>“Evans emphasizes the importance of a rich domain model that is a direct representation of the problem space, abstracting away technical details.”</strong></li>
 </ul>
 
 
