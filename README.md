@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,git,kubernetes,docker,linux,terraform,postman,aws,azure,nginx&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,git,kubernetes,docker,linux,bash,terraform,postman,aws,azure,nginx&perline=14" />
   </a>
 </p>
 
